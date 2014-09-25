@@ -6,7 +6,7 @@ Matlab based program to calculate thermal load.
 #### How to use
 * Install Matlab
 
-* Download the file **_MatLoadFiles.7z_**
+* Download the file [**_MatLoadFiles.7z_**][id]
 
 * Extract the file and open **all** the **.m** file from Matlab
 * Set the input data in the **heat.xlsm**
@@ -20,6 +20,8 @@ Matlab based program to calculate thermal load.
 
 * If matlab can not open files try run the commandline:
 
-	>feature('DefaultCharacterSet','UTF8')
+		feature('DefaultCharacterSet','UTF8')
 
 #### Reference **_建筑热过程 闫启森_**
+
+[id]:https://github.com/wqz9822/MatLoad/raw/master/MatLoadFiles.7z
